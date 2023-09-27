@@ -1,0 +1,9 @@
+your-project-venv
+get-pip
+experiments.py
+pytest-venv
+challenge-venv-two
+chapter-3-venv
+__pycache__
+.pytest_cache
+*.pyc

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 678 768">
+  <defs/>
+  <g>
+    <rect fill="#ffffff" stroke="none" x="0" y="0" width="678" height="768"/>
+    <g transform="translate(126.84027099609375,150.84375) scale(1.5,1.5)">
+      <path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -25.0316162109375 290.75790429494907 L 303.4707285181659 214.8341630803813" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/>
+      <path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 297.92236449230415 220.58117592502705 L 305.4193606779303 214.38379355884155 L 295.9632570736062 212.10462603005195 Z" fill-opacity="1"/>
+      <g transform="translate(139.70671419355529,252.68344130728025) rotate(-13.013742994815493,0,0)">
+        <rect fill="rgb(255,255,255)" stroke="none" x="-9.5" y="-8" width="19" height="16" fill-opacity="1"/>
+        <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="5" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">No</text>
+        <g transform="rotate(13.013742994815493,0,0) translate(-139.70671419355529,-252.68344130728025)">
+          <path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 169.94769287109375 345.9374476812093 L 304.09062002456005 233.96143663078905" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/>
+          <path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 301.73472277921746 241.59440775410576 L 305.6259911800617 232.6797832397142 L 296.1595305280419 234.91554322767374 Z" fill-opacity="1"/>
+          <g transform="translate(237.40299923670233,289.6290288082305) rotate(-39.853491759324946,0,0)">
+            <rect fill="rgb(255,255,255)" stroke="none" x="-9.5" y="-8" width="19" height="16" fill-opacity="1"/>
+            <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="5" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">No</text>
+            <g transform="rotate(39.853491759324946,0,0) translate(-237.40299923670233,-289.6290288082305)">
+              <path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 169.94769287109375 372.6565916471818 L 303.4056890322778 384.6355447514931" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/>
+              <path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 296.34363154879225 388.3691548141463 L 305.39768084930097 384.814342405037 L 297.1214013417083 379.7039904100956 Z" fill-opacity="1"/>
+              <g transform="translate(237.17468890594157,378.69076761272345) rotate(5.129022989015189,0,0)">
+                <rect fill="rgb(255,255,255)" stroke="none" x="-11.5" y="-8" width="23" height="16" fill-opacity="1"/>
+                <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="5" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Yes</text>
+                <g transform="rotate(-5.129022989015189,0,0) translate(-237.17468890594157,-378.69076761272345)">
+                  <path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -25.0316162109375 308.2023670028026 L 109.33462102991606 358.2504876242142" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/>
+                  <path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 101.53765890837694 359.9882682994676 L 111.20883038236784 358.94858453953634 L 104.57438049002829 351.8354576163024 Z" fill-opacity="1"/>
+                  <g transform="translate(42.620054747602225,333.40095154233893) rotate(20.429125581895608,0,0)">
+                    <rect fill="rgb(255,255,255)" stroke="none" x="-11.5" y="-8" width="23" height="16" fill-opacity="1"/>
+                    <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="5" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Yes</text>
+                    <g transform="rotate(-20.429125581895608,0,0) translate(-42.620054747602225,-333.40095154233893)">
+                      <path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -24.3048095703125 -6.568590820246172 L 106.49807901157794 -62.33343153365327" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/>
+                      <path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 102.04076985696193 -55.704336942370375 L 108.33786064708849 -63.117780648294314 L 98.6288512082734 -63.7073870568412 Z" fill-opacity="1"/>
+                      <g transform="translate(41.55658012951036,-34.64709845560998) rotate(-23.08987454642952,0,0)">
+                        <rect fill="rgb(255,255,255)" stroke="none" x="-9.5" y="-8" width="19" height="16" fill-opacity="1"/>
+                        <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="5" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">No</text>
+                        <g transform="rotate(23.08987454642952,0,0) translate(-41.55658012951036,34.64709845560998)">
+                          <path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -24.30480957031253 18.693590820246158 L 109.74807901157791 75.84399521870222" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/>
+                          <path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 101.87885120827337 77.21795074189014 L 111.58786064708846 76.62834433334325 L 105.2907698569619 69.21490062741931 Z" fill-opacity="1"/>
+                          <g transform="translate(43.18158012951033,47.464880298134446) rotate(23.089874546429513,0,0)">
+                            <rect fill="rgb(255,255,255)" stroke="none" x="-11.5" y="-8" width="23" height="16" fill-opacity="1"/>
+                            <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="5" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Yes</text>
+                            <g transform="rotate(-23.089874546429513,0,0) translate(-43.18158012951033,-47.464880298134446)">
+                              <path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -82.33337402343749 267.4375 L -82.3333740234375 327.4375 L -25.53161621093751 327.4375 L -25.5316162109375 267.4375 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="-53.9324951171875" y="289.9375" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Do you </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="-53.9324951171875" y="302.4375" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">have </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="-53.9324951171875" y="314.9375" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">flour? </text>
+                              <path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -83.06018066406249 -15.937499999999996 L -83.0601806640625 28.062499999999993 L -24.80480957031251 28.0625 L -24.8048095703125 -15.93749999999999 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="-53.9324951171875" y="4.8125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Is it </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="-53.9324951171875" y="17.3125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">raining? </text>
+                              <path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 306.8936767578125 365.5625 L 306.8936767578125 409.5625 L 365.1363525390625 409.5625 L 365.1363525390625 365.5625 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="336.0150146484375" y="386.3125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Make a </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="336.0150146484375" y="398.8125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">cake! </text>
+                              <path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 109.75775146484376 -99.0625 L 109.75775146484375 -55.06250000000001 L 172.33587646484375 -55.0625 L 172.33587646484375 -99.06249999999999 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.04681396484375" y="-78.3125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Go for a </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.04681396484375" y="-65.8125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">picnic </text>
+                              <path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 112.64593505859376 340.0625 L 112.64593505859375 400.0625 L 169.44769287109375 400.0625 L 169.44769287109375 340.0625 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.04681396484375" y="362.5625" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Do you </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.04681396484375" y="375.0625" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">have </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.04681396484375" y="387.5625" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">eggs? </text>
+                              <path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 306.8936767578125 177.3125 L 306.8936767578125 237.3125 L 365.1363525390625 237.3125 L 365.1363525390625 177.3125 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="336.0150146484375" y="199.8125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Don&apos;t </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="336.0150146484375" y="212.3125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">make a </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="336.0150146484375" y="224.8125" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">cake </text>
+                              <path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 113.00775146484376 67.1875 L 113.00775146484375 111.1875 L 169.08587646484375 111.1875 L 169.08587646484375 67.18750000000001 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.04681396484375" y="87.9375" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Stay at </text>
+                              <text fill="rgb(0,0,0)" stroke="none" font-family="Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.04681396484375" y="100.4375" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">home </text>
+                              <g transform="scale(0.6666666666666666,0.6666666666666666) translate(-126.84027099609375,-150.84375)"/>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+<!--Original Flowchart Text (flowchart.fun):
+
+~~~
+layout:
+  rankDir: LR
+  name: dagre
+  spacingFactor: 1.75
+~~~
+Is it raining?
+  Yes: Stay at home
+  No: Go for a picnic
+
+Do you have flour?
+  Yes: Do you have eggs?
+    Yes: Make a cake!
+    No: [NOCAKE] Don't make a cake
+  No: (NOCAKE)-->
+</svg>
